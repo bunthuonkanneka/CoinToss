@@ -17,6 +17,9 @@
 		61854C62287473A6008CBDD3 /* CoinTossTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61854C61287473A6008CBDD3 /* CoinTossTests.swift */; };
 		61854C6C287473A6008CBDD3 /* CoinTossUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61854C6B287473A6008CBDD3 /* CoinTossUITests.swift */; };
 		61854C6E287473A6008CBDD3 /* CoinTossUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61854C6D287473A6008CBDD3 /* CoinTossUITestsLaunchTests.swift */; };
+		61854C7B287482F9008CBDD3 /* Giaza-Stencil in Resources */ = {isa = PBXBuildFile; fileRef = 61854C7A287482F9008CBDD3 /* Giaza-Stencil */; };
+		61854C7C287482F9008CBDD3 /* Giaza-Stencil in Resources */ = {isa = PBXBuildFile; fileRef = 61854C7A287482F9008CBDD3 /* Giaza-Stencil */; };
+		61854C7D287482F9008CBDD3 /* Giaza-Stencil in Resources */ = {isa = PBXBuildFile; fileRef = 61854C7A287482F9008CBDD3 /* Giaza-Stencil */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,7 @@
 		61854C67287473A6008CBDD3 /* CoinTossUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoinTossUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		61854C6B287473A6008CBDD3 /* CoinTossUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinTossUITests.swift; sourceTree = "<group>"; };
 		61854C6D287473A6008CBDD3 /* CoinTossUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinTossUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		61854C7A287482F9008CBDD3 /* Giaza-Stencil */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Giaza-Stencil"; path = "../../Giaza-Stencil"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +130,7 @@
 			children = (
 				61854C6B287473A6008CBDD3 /* CoinTossUITests.swift */,
 				61854C6D287473A6008CBDD3 /* CoinTossUITestsLaunchTests.swift */,
+				61854C7A287482F9008CBDD3 /* Giaza-Stencil */,
 			);
 			path = CoinTossUITests;
 			sourceTree = "<group>";
@@ -234,6 +239,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61854C7B287482F9008CBDD3 /* Giaza-Stencil in Resources */,
 				61854C57287473A6008CBDD3 /* LaunchScreen.storyboard in Resources */,
 				61854C54287473A6008CBDD3 /* Assets.xcassets in Resources */,
 				61854C4F287473A4008CBDD3 /* Main.storyboard in Resources */,
@@ -244,6 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61854C7C287482F9008CBDD3 /* Giaza-Stencil in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +258,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61854C7D287482F9008CBDD3 /* Giaza-Stencil in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
